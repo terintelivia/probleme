@@ -1,0 +1,8 @@
+n1 = int(input("introdu primul numar"))
+n2 = int(input("introdu al doilea numar"))
+n3 = int(input("introdu al treilea numar"))
+print(n2,n3,n1,sep= " ")
+print(n3,n1,n2,sep= " ")
+print(n1,n2,n3,sep= " ")
+print(n1,n3,n2,sep= " ")
+print(n2,n1,n3,sep= " ")
